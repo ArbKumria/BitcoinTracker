@@ -1,0 +1,1 @@
+Main concept is to use coinbase api to extract bitcoin price data and relay information back using requests and JSON library, then simply loop the process to have a self-refreshing bitcoin price tracker
